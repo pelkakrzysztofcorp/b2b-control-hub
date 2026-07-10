@@ -1,0 +1,17 @@
+{
+  "B2B/AKT/2025/014": {
+    "numer": "B2B/AKT/2025/014",
+    "kontrahent": "Nova Actuarial Services sp. z o.o.",
+    "model": "godzinowy",
+    "obowiazuje_od": "2025-01-02",
+    "obowiazuje_do": "2026-08-31",
+    "zakres": "Raporty aktuarialne i wsparcie zamknięcia miesiąca",
+    "baza": { "stawka": 230, "limit_godzin": 80, "rachunek": "PL41114020040000310266740901", "akceptujacy": "Jan Kowalski, CFO" },
+    "aneksy": [
+      { "data": "2025-05-01", "zmiany": { "limit_godzin": 100 }, "opis": "Limit podniesiony do 100 h." },
+      { "data": "2025-09-01", "zmiany": { "stawka": 250 }, "opis": "Stawka podniesiona do 250 zł/h." },
+      { "data": "2026-01-01", "zmiany": { "akceptujacy": "Marta Nowak, CFO" }, "opis": "Zmiana osoby akceptującej." },
+      { "data": "2026-03-01", "zmiany": { "stawka": 280, "limit_godzin": 120 }, "opis": "Stawka 280 zł/h i limit 120 h." }
+    ]
+  }
+}

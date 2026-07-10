@@ -1,0 +1,17 @@
+FAKTURA VAT  nr  FV/06/2026/118
+
+Sprzedawca: Nova Actuarial Services sp. z o.o.
+NIP: 525-29-14-381
+Umowa: B2B/AKT/2025/014
+
+Okres od: 2026-06-01
+Okres do: 2026-06-30
+Data wystawienia: 2026-06-26
+
+Pozycja: Usługi aktuarialne
+Godziny: 122
+Stawka: 280 zł
+Kwota netto: 34160 zł
+
+Rachunek: PL41 1140 2004 0000 3102 6674 0901
+Akceptuje: Marta Nowak, CFO
