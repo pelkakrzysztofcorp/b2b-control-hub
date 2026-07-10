@@ -1,0 +1,11 @@
+# Zależności i build
+node_modules/
+dist/
+
+# Dane i sekrety — NIGDY do repo
+config.json
+b2b-hub/data/
+kopie/
+*.db
+apikey.txt
+**/apikey.txt
